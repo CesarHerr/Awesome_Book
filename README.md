@@ -59,7 +59,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live demo link](https://mutugi-c.github.io/Awesome-Books/)
+- [Live demo link](https://cesarherr.github.io/Awesome_Book/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
